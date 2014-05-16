@@ -2,7 +2,9 @@
 
 The goal of this task was to practice writing readable code.
 
-This task was set by [Evgeny Shadchnev] from [Project Euler.net](projecteuler.net/problem=1)
+This task was set by [Evgeny Shadchnev] from [Project Euler.net](projecteuler.net/problem=1)]
+
+(Week 2)
 
 ###Question:
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
@@ -40,5 +42,5 @@ puts game(1000)
 ```
 
 
-##Stack:
+##Technologies Used
 - Ruby
