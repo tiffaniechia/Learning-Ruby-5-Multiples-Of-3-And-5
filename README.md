@@ -2,7 +2,7 @@
 
 The goal of this task was to practice writing readable code.
 
-This task was set by [Evgeny Shadchnev] from [Project Euler.net](projecteuler.net/problem=1)]
+This task was set by [Evgeny Shadchnev] from [Project Euler.net](projecteuler.net/problem=1)].
 
 (Week 2)
 
@@ -40,7 +40,6 @@ end
 puts game(1000)
 
 ```
-
 
 ##Technologies Used
 - Ruby
