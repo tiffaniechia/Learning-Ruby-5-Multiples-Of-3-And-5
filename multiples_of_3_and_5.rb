@@ -3,21 +3,17 @@ def play(num)
  	return 0
 end
 
-def divisable_by_fifteen?(num)
-	num % 15 == 0
-end
-
 def divisable_by_three?(num)
-	num % 3 == 0 
+	num % 3 == 0
 end
 
 def divisable_by_five?(num)
 	num % 5 == 0
 end
- 
+
 def game(max)
 num = 1
-sum = 0 
+sum = 0
 loop do
 	sum += play(num)
 	num += 1
